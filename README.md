@@ -1,3 +1,4 @@
+#没有奖励 没有奖励 没有奖励！！！ 项目结束
 # 🚀 Aztec Sequencer Node Manager
 
 A comprehensive management script for your Aztec Sequencer Node.
